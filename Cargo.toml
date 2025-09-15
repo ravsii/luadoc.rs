@@ -5,4 +5,6 @@ edition = "2024"
 
 [dependencies]
 regex = "1.11.2"
+tree-sitter = "0.25.9"
+tree-sitter-lua = "0.2.0"
 walkdir = "2.5.0"
